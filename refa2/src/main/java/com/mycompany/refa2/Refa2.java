@@ -11,6 +11,6 @@ package com.mycompany.refa2;
 public class Refa2 {
 
     public static void main(String[] args) {
-        System.out.println("pene!");
+        System.out.println("prueba de codigo!");
     }
 }
